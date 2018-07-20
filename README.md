@@ -14,7 +14,7 @@ Documentation how to *run*, *build* and *test* app
 
 Demo
 -
-> http://react-compare-app.surge.sh
+> http://ketan-compare-products.herokuapp.com
 
 Contributing
 -
@@ -25,4 +25,4 @@ License
 -
 The MIT License (MIT). Please see License File for more information.
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Rhymond/product-compare-react)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ketankshukla/ketan-compare-products)
